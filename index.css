@@ -6,15 +6,22 @@ Datum: (Datum der letzten Bearbeitung)
 	
 Hiermit versichere ich, dass ich diesen Code selbst geschrieben habe. Er wurde nicht kopiert und auch nicht diktiert.
 */
+
+
 body {
 	background-color: #F4DAE6;
+	opacity:0.5;
 }
 
 .Box {
 	background-color: white;
 	margin: 100px;
-	
+	text-align: center;
+	position: relative;
 }
 img{
-	max-width: 30%;
+	max-width: 20%;
+	
 }
+h1 {
+	font-size:1.5em;
