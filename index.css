@@ -10,12 +10,12 @@ Hiermit versichere ich, dass ich diesen Code selbst geschrieben habe. Er wurde n
 
 body {
 	background-color: #F4DAE6;
-	opacity:0.5;
 }
 
 .Box {
 	background-color: white;
 	margin: 100px;
+	padding: 25px;
 	text-align: center;
 	position: relative;
 }
